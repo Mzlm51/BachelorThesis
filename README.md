@@ -89,9 +89,3 @@ Reproducing the on-chip results requires access to this hardware.
 ## Acknowledgements
 
 Supervised by Prof. Dr. Elisa Donati at the Institute of Neuroinformatics, UZH/ETH.
-
-## License
-
-No license is set yet. Without one, the code is "all rights reserved" by default — add a
-license file if you want others to be able to reuse it, and confirm you have permission
-to publish any institute-owned code or data before doing so.
