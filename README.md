@@ -78,7 +78,7 @@ pip install -r requirements.txt
 
 This project uses a public PPG blood-pressure benchmark. The raw dataset is **not**
 redistributed in this repository; download it from the original source and place it
-under `data/` (see the thesis for the exact benchmark and preprocessing steps).
+under `data/` (see the thesis for the exact benchmark and preprocessing steps). As of October 2026, the dataset can be found under https://springernature.figshare.com/articles/dataset/BCG_dataset/20496234.
 
 ## Hardware
 
